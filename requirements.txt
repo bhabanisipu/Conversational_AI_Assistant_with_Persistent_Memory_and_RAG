@@ -1,0 +1,10 @@
+ipykernel
+langchain
+langchain-groq
+langchain-core
+langchain-community
+python-dotenv
+streamlit
+pypdf
+langchain-ollama
+faiss-cpu
